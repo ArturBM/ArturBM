@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Artur Machado
 
-- 👯 Hoje trabalho como suporte na PanteraFood, e faço alguns freelance
+- 👯 Hoje trabalho como suporte T.I na PanteraFood, e faço alguns freelance
 - 🤔 Estudando JavaScript/HTML/CSS & C#
 - 😄 Pronouns: ele/dele
 
