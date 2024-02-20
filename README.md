@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Artur Machado
 
 - 👯 Hoje trabalho como suporte T.I na PanteraFood, e faço alguns freelance
-- 🤔 Estudando JavaScript/HTML/CSS & C#
+- 🤔 Estudando JavaScript/HTML/CSS & C
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturBM&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturBM&layout=compact&theme=dracula)](https://github.com/ArturBM/github-readme-stats)
