@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Artur Machado
 
 - 👯 Atualemente Estudo Ciência da Computação, e procuro aumentar meus conhecimentos
-- 🤔 Estudando JavaScript/HTML/CSS/C++ & Java
+- 🤔 Estudando JavaScript/HTML/CSS/C++/MySQL,PHP & Java
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturBM&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturBM&layout=compact&theme=dracula)](https://github.com/ArturBM/github-readme-stats)
