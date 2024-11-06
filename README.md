@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Artur Machado
 
-- 👯 Atualemente Estudo Ciência da Computação, e procuro aumentar meus conhecimentos
-- 🤔 Estudando JavaScript/HTML/CSS/C++/MySQL,PHP
+- 👯 Atualemente Estudo Ciência da Computação, sempre me dedico ao máximo para ser um ótimo profissional!
+- 🤔 Estudando JavaScript/HTML/CSS/C++/MySQL,PHP|Laravel
+- 💼 Atualmente trabalho na Cooperja como desenvolvedor FULL-STACK
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturBM&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturBM&layout=compact&theme=dracula)](https://github.com/ArturBM/github-readme-stats)
